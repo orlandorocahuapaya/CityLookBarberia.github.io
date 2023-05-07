@@ -50,7 +50,7 @@ nav a{
   position:relative;
   display:inline-block;
   font-weight:500;
-  font-size:10px;
+  font-size:8px;
 }
 .containerLink{
 
@@ -285,8 +285,8 @@ nav a:hover:before{
 
 
 .maps{
-    width: 400px;
-    height: 450px;
+    width: 350px;
+    height: 400px;
 }
 
 
